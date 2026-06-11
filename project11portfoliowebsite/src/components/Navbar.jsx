@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <div className='flex items-center justify-between p-6 bg-black w-full h-17'>
          <div className='text-xl'>
-             <h1 className='text-red-500 font-bold'>The Coding <span className='text-white'>hub</span></h1>
+             <h1 className='text-red-500 font-bold'>The Coding <span className='text-white'>Hub</span></h1>
          </div>
         <div className='flex text-white gap-10  '>
           <h3>HOME</h3>
