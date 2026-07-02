@@ -119,7 +119,15 @@ const App = () => {
                       {value.name}
                     </p>
 
-                    
+                    <p className="break-all">
+                      <span className="font-semibold">📧 Email:</span>{" "}
+                      {value.email}
+                    </p>
+
+                    <p>
+                      <span className="font-semibold">📱 Phone:</span>{" "}
+                      {value.number}
+                    </p>
                   </div>
                 </div>
               ))}
