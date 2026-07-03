@@ -33,7 +33,7 @@ const App = () => {
 
         <div className="mt-6 bg-gray-100 rounded-lg p-4 text-center">
           <h2 className="text-xl font-semibold text-gray-700">
-            Characters (without spaces)
+            Characters Count (without spaces)
           </h2>
 
           <p className="text-4xl font-bold text-blue-600 mt-2">
